@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Habib Can 👋
 
-<!--
-**hcozdemir/hcozdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am transitioning into cybersecurity with a focus on SOC, Detection & Response, and Incident Response.
 
-Here are some ideas to get you started:
+### Background
+- Law enforcement experience with risk analysis and behavioral analysis
+- BSc in Statistics (data-driven thinking and anomaly detection)
+- Web Design & Coding student
+- Currently preparing for a Cybersecurity Master’s degree in Ireland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+- Security Operations Center (SOC) fundamentals
+- Detection and response using MITRE ATT&CK
+- Incident response processes
+- Cloud security fundamentals (AWS)
+
+### Goal
+To build a strong defensive security profile and pursue SOC Analyst roles in Europe, starting with Ireland and later Switzerland.
+
+This GitHub documents my hands-on labs, learning notes, and practical security analysis as I progress in my cybersecurity journey.
